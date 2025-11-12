@@ -1,0 +1,13 @@
+arg1,arg2,conn1,conn2,conn1sense1,conn1sense2,conn2sense1,conn2sense2,relation,split,section,file_name,reason
+hello world0,"nice to meet you, user0",although,after,Comparison.Concession,Contingency.Cause,Temporal.Synchronous,Expansion.Substitution,Implicit,train,1,,
+hello world1,"nice to meet you, user1",however,then,Contingency.Cause,Temporal.Synchronous,Temporal.Synchronous,Temporal.Asynchronous,Implicit,train,1,,
+hello world2,"nice to meet you, user2",but,before,Contingency.Cause+Belief,Temporal.Synchronous,Temporal.Synchronous,,Implicit,train,1,,
+hello world3,"nice to meet you, user3",because,,Contingency.Condition,,,,Implicit,train,1,,
+hello world4,"nice to meet you, user4",consequently,,Expansion.Conjunction,,,,Implicit,train,1,,
+hello world5,"nice to meet you, user5",thus,,Expansion.Equivalence,,,,Implicit,dev,1,,
+hello world6,"nice to meet you, user6",therefore,,Expansion.Instantiation,,,,Implicit,dev,1,,
+hello world7,"nice to meet you, user7",if,,Expansion.Level-of-detail,,,,Implicit,dev,1,,
+hello world8,"nice to meet you, user8",unless,,Comparison.Contrast,Temporal.Synchronous,,,Implicit,test,1,,
+hello world9,"nice to meet you, user9",instead,,Contingency.Purpose,,,,Implicit,test,1,,
+hello world10,"nice to meet you, user10",rather,,Expansion.Manner.666,,,,Implicit,test,1,,
+hello world11,"nice to meet you, user11",and,,Expansion.Substitution.hahaha,,,,Implicit,test,1,,
